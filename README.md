@@ -7,9 +7,9 @@ I'm a passionate Software Engineer with hands on high energy approach and agile 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🌱 I’m currently learning GraphQl, Nodejs.
+- 🌱 I’m currently learning Docker, Nestjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineering  ( Junior level).
+- 💼 Job interests: Software Engineering.
 - 📫 You can [view my resume](#) and contact me by emailing ifeanyichukwu0102@gmail.com.
 
 ---
