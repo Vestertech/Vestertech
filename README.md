@@ -20,7 +20,7 @@ I'm a passionate Application Security Analyst with a hands-on projects and real-
 - **Secure Coding & Software Security**: Secure Authentication, Encryption, OWASP, Code Reviews  
 - **Compliance & Governance**: NIST, ISO 27001, GDPR, HIPAA, SOC 2  
 - **Programming & Scripting**: Python (Cybersecurity Automation), Javascript, Typescript, NodeJs Bash, PowerShell, Testing   
-- **Certifications & Training**: Microsoft Azure  (AZ-900), Google Cybersecurity Certificate, CompTIA Security+ (Target)  
+- **Certifications & Training**: Microsoft Security, Compliance and Identity Funadmentals, Microsoft Azure Fundamentals, Google Cybersecurity Certificate, CompTIA Security+, Splunk core certified power user, generative AI.
 
 ---
 
